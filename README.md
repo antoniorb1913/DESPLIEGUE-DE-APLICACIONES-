@@ -20,7 +20,7 @@ Para descargar **Visual Studio Code** entra a su web oficial --> [https://code.v
 
 **2. Vamos a:**
 
-File / New File / New Java File
+      File / New File / New Java File
    
 **3. Declaramos la clase:**
 
