@@ -16,6 +16,6 @@ Es un lenguaje ligero/simple que se utiliza para crear texto enriquecido como po
 
   CODIGO EN VS CODE
   
-  ![Texto alternativo](https://github.com/antoniorb1913/DESPLIEGUE-DE-APLICACIONES-/tree/main/imagen/vscode.png)
+  ![Texto alternativo](https://github.com/antoniorb1913/DESPLIEGUE-DE-APLICACIONES-/tree/main/imagen/vscode.jng)
 
   
