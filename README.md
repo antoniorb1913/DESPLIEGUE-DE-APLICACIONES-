@@ -17,6 +17,7 @@ Para descargar **Visual Studio Code** entra a su web oficial --> [https://code.v
 ### Crear el Hola Mundo
 
 **1. Una vez instalado, ejecutamos VS Code**.
+
 **2. Vamos a:**
 
 File / New File / New Java File
