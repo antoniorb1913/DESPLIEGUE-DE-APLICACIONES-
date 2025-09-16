@@ -12,8 +12,7 @@ Es un lenguaje ligero/simple que se utiliza para crear texto enriquecido como po
 
 Para descargar **Visual Studio Code** entra a su web oficial --> [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-```
-
+---
 
 ### Crear el Hola Mundo
 
@@ -48,5 +47,8 @@ Para descargar **Visual Studio Code** entra a su web oficial --> [https://code.v
   CODIGO EN VS CODE
   
   ![Texto alternativo](imagen/vscode.png)
+
+  
+
 
   
