@@ -6,15 +6,15 @@ INICIO DEL CURSO
 Es un lenguaje ligero/simple que se utiliza para crear texto enriquecido como por ejemplo HTML,con un editor de texto sin formato.
 
 
-## 🚀 Crear un Hola Mundo en Java en VS Code
+## 2. Crear un Hola Mundo en Java en VS Code
 
-### 🔽 Descargar VS Code
+### Descargar VS Code
 
 Para descargar **Visual Studio Code** entra a su web oficial --> [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 ---
 
-### 📝 Crear el Hola Mundo
+### Crear el Hola Mundo
 
 1. Una vez instalado, ejecutamos **VS Code**.
 2. Vamos a:
