@@ -39,6 +39,8 @@ Para descargar **Visual Studio Code** entra a su web oficial --> [https://code.v
        }
    }
    ```
+**Guardamos el fichero con Ctrl + s y lo ejecutamos.**
+
 
 **Con esto ya tendrás tu primer programa en **Java** corriendo desde VS Code**.
 
