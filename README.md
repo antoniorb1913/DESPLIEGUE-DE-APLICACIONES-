@@ -40,6 +40,8 @@ Para descargar **Visual Studio Code** entra a su web oficial --> https://code.vi
    ```
 **6. Guardamos el fichero con Ctrl + s y lo ejecutamos.**
 
+---
+
   **CODIGO EN VS CODE**
   
   ![Texto alternativo](imagen/vscode.png)
