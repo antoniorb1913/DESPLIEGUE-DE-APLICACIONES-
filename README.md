@@ -16,29 +16,29 @@ Para descargar **Visual Studio Code** entra a su web oficial --> [https://code.v
 
 ### Crear el Hola Mundo
 
-   **1. Una vez instalado, ejecutamos VS Code**.
+**1. Una vez instalado, ejecutamos VS Code**.
+
+**2. Vamos a:**
+
+   File / New File / New Java File
    
-   **2. Vamos a:**
-   
-      File / New File / New Java File
-      
-   **3. Declaramos la clase:**
-   
-      ```java
-      public class HolaMundo {
-      ```
-   **4. Añadimos el método `main`:**
-   
-      ```java
-          public static void main(String[] args) {
-      ```
-   **5. Escribimos la salida en consola:**
-   
-      ```java
-              System.out.print("Hola Mundo");
-          }
-      }
-      ```
+**3. Declaramos la clase:**
+
+   ```java
+   public class HolaMundo {
+   ```
+**4. Añadimos el método `main`:**
+
+   ```java
+       public static void main(String[] args) {
+   ```
+**5. Escribimos la salida en consola:**
+
+   ```java
+           System.out.print("Hola Mundo");
+       }
+   }
+   ```
 
 **Con esto ya tendrás tu primer programa en **Java** corriendo desde VS Code**.
 
