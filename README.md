@@ -39,11 +39,11 @@ Para descargar **Visual Studio Code** entra a su web oficial --> [https://code.v
    }
    ```
 
-Con esto ya tendrás tu primer programa en **Java** corriendo desde **VS Code**.
+**Con esto ya tendrás tu primer programa en **Java** corriendo desde VS Code**.
 
 
 
-  CODIGO EN VS CODE
+  **CODIGO EN VS CODE**
   
   ![Texto alternativo](imagen/vscode.png)
 
