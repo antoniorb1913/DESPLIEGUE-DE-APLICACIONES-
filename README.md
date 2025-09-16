@@ -3,7 +3,7 @@ INICIO DEL CURSO
 
 ## 1. MARKDOWN.
    
-Es un lenguaje ligero/simple que se utiliza para crear texto enriquecido como por ejemplo HTML,con un editor de texto sin formato.
+Es un lenguaje ligero/simple que se utiliza para crear texto enriquecido como por ejemplo HTML, con un editor de texto sin formato.
 
 
 ## 2. Crear un Hola Mundo en Java en VS Code
