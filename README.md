@@ -21,7 +21,7 @@ Para descargar **Visual Studio Code** entra a su web oficial --> [https://code.v
 
    ```
    File / New File / New Java File
-   ```
+   
 3. Declaramos la clase:
 
    ```java
