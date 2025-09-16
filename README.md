@@ -24,7 +24,7 @@ Para descargar **Visual Studio Code** entra a su web oficial --> [https://code.v
    
 **3. Declaramos la clase:**
 
-   ```
+   ```java
    public class HolaMundo {
    ```
 **4. Añadimos el método main:**
