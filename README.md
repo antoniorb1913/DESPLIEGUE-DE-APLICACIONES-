@@ -12,6 +12,7 @@ Es un lenguaje ligero/simple que se utiliza para crear texto enriquecido como po
 
 Para descargar **Visual Studio Code** entra a su web oficial --> https://code.visualstudio.com/
 
+---
 
 ### Crear el Hola Mundo
 
