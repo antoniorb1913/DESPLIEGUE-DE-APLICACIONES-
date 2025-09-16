@@ -6,12 +6,43 @@ INICIO DEL CURSO
 Es un lenguaje ligero/simple que se utiliza para crear texto enriquecido como por ejemplo HTML,con un editor de texto sin formato.
 
 
-## 2. CREAR UN HOLA MUNDO EN JAVA.
+## 🚀 Crear un Hola Mundo en Java en VS Code
 
-  1. File / New File / New Java file
-  2. Declaramos la clase --> public class "nombre" {
-  3. Añadimos el main --> public static void main
-  4. Añadir la salida --> System.out.print("Hola Mundo");
+### 🔽 Descargar VS Code
+
+Para descargar **Visual Studio Code** entra a su web oficial:
+👉 [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+---
+
+### 📝 Crear el Hola Mundo
+
+1. Una vez instalado, ejecutamos **VS Code**.
+2. Vamos a:
+
+   ```
+   File → New File → New Java File
+   ```
+3. Declaramos la clase:
+
+   ```java
+   public class HolaMundo {
+   ```
+4. Añadimos el método `main`:
+
+   ```java
+       public static void main(String[] args) {
+   ```
+5. Escribimos la salida en consola:
+
+   ```java
+           System.out.print("Hola Mundo");
+       }
+   }
+   ```
+
+✅ Con esto ya tendrás tu primer programa en **Java** corriendo desde **VS Code**.
+
 
 
   CODIGO EN VS CODE
