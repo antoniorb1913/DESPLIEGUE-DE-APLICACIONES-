@@ -10,7 +10,7 @@ Es un lenguaje ligero/simple que se utiliza para crear texto enriquecido como po
 
 ### Descargar VS Code
 
-Para descargar **Visual Studio Code** entra a su web oficial --> [Visual Studio Code](https://ejemplo.com)
+Para descargar **Visual Studio Code** entra a su web oficial --> [Visual Studio Code](https://code.visualstudio.com/)
 
 ---
 
